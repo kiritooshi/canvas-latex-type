@@ -1,0 +1,1 @@
+# canvas-latex-type
