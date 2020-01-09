@@ -1,0 +1,17 @@
+{
+  "name": "canvas-latex-type",
+  "version": "0.9.0",
+  "description": "Enabling quick math-typesetting rendering on the canvas",
+  "main": "index.js",
+  "private": true,
+  "scripts": {},
+  "files": [],
+  "repository": {},
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "canvg-browser": "^1.0.0"
+  }
+}
