@@ -4,7 +4,9 @@
   "description": "Enabling quick math-typesetting rendering on the canvas",
   "main": "index.js",
   "scripts": {},
-  "files": [],
+  "files": [
+    "canvas-latex.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/kiritooshi/canvas-latex-type.git"
@@ -12,6 +14,7 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
+  "typings": "index.d.ts",
   "devDependencies": {},
   "dependencies": {
     "canvg-browser": "^1.0.0"
