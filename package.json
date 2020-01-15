@@ -3,10 +3,12 @@
   "version": "0.9.0",
   "description": "Enabling quick math-typesetting rendering on the canvas",
   "main": "index.js",
-  "private": true,
   "scripts": {},
   "files": [],
-  "repository": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kiritooshi/canvas-latex-type.git"
+  },
   "keywords": [],
   "author": "",
   "license": "MIT",
