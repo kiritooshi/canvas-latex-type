@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {},
   "files": [
-    "canvas-latex.js"
+    "canvas-latex.js",
+    "index.d.ts"
   ],
   "repository": {
     "type": "git",
